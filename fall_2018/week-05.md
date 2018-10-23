@@ -2,7 +2,7 @@
 Continued updating parser and image resizer to make the app perfect for the
 app store review, assisited with paperwork regarding that review and sumbitted.
 App is approved for the app store! Should be up for download by the end of the
-week.
+week. Also added license to the repo.
 
 ## This Week's Plan
 Add password protection to Admin portal website, didn't get to this last Week
