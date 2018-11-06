@@ -6,7 +6,8 @@ correct username and password is submitted.
 ## This Week's Plan
 Connect website to s3 and read files containing
 fraternity info and rush event info. Possibly implement editing this info if time
-allows. 
+allows. Add more documentation and comments in my code/repo to explain what is
+happening with the code.
 
 ## Anything Blocking?
 Lots of hw/test for other classes last week, trying to make a big push this week.
